@@ -1,0 +1,11 @@
+.vscode/
+user.out
+Makefile
+build/
+nbproject/
+*.inc
+*.out
+*.exe
+
+#Discord proyect
+discordBot/
